@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"cl.llanquihuetour.app"},{"l":"cl.llanquihuetour.model"},{"l":"cl.llanquihuetour.service"},{"l":"cl.llanquihuetour.util"}];updateSearchResults();
